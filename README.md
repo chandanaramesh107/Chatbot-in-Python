@@ -13,10 +13,5 @@ Process includes:
   
   3.Return the response for the input.
   
-# Training the Chatbot
-1.Import Chatterbot-corpus.
-
-2.Train the bot.
-
-3.The output is the corpus of data inclined in the chatterbot module.
+![Screenshot](https://github.com/chandanaramesh107/Chatbot-in-Python/blob/master/screen.PNG)
 
